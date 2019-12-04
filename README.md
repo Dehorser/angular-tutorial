@@ -1,3 +1,5 @@
-# angular-hbz5fp-pk17xn
+# Angular Tutorial
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-hbz5fp-pk17xn)
+A tutorial to learn the basic features of Angular.
+
+[Live demo](https://angular-tutorial-d9771.firebaseapp.com/)
